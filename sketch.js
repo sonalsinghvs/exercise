@@ -25,6 +25,6 @@ function draw() {
   stroke(51);
   line(180, 220, 280, 270);
   line(325, 270, 435, 270);
+  ellipse (280, 190, 5, 5);
+  ellipse (315, 190, 5, 5);
   }
-    
-
